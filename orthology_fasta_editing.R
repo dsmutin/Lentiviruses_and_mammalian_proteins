@@ -111,7 +111,7 @@ fasta_filtration <- function (fastas, output, grp = "NA", group_name = "NA") {
     
     i <- i + 1
   }
-  print ("Done! Petrov loh)))")
+  print ("Done!")
 }
 
 
